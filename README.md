@@ -1,5 +1,5 @@
-# Simple Hugging face model downloader to local
-## Downloads specified HF model under a specified directory.
+# Hugging face sentence transformer model downloader
+## Downloads specified HF sentence transformer model under a specified directory.
 
 ### Set up environment:
 ```bash
